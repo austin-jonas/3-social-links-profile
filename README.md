@@ -1,5 +1,5 @@
 
-# QR Code Component
+# Social Links Profile
 
 This project is a responsive social links profile page built using HTML and CSS. It showcases a modern design with a profile image, personal details, and interactive social media links.
 
